@@ -10,8 +10,6 @@
         }
       }
     ],
-    "hooks": {
-      "build": "npx prisma generate"
-    }
+    
   }
   
