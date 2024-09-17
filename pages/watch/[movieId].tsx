@@ -52,8 +52,4 @@ const Watch = ()=>{
     )
 }
 
-<<<<<<< HEAD
 export default Watch;
-=======
-export default Watch;
->>>>>>> origin/master
